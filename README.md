@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vasudev7891/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/vasudev7891/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasudev7891/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vasudev7891/LeetCode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasudev7891/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasudev7891/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
