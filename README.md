@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/vasudev7891/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vasudev7891/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasudev7891/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/vasudev7891/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vasudev7891/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/vasudev7891/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vasudev7891/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vasudev7891/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/vasudev7891/LeetCode/tree/master/1260-shift-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/vasudev7891/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/vasudev7891/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
