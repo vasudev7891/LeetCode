@@ -1,8 +1,6 @@
 class Solution {
     public int missingInteger(int[] nums) {
         int n = nums.length;
-        if(n == 1) return ++nums[0];
-
         int sum = nums[0];
 
         for(int j = 1; j < n; j++) {
