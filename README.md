@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/vasudev7891/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vasudev7891/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/vasudev7891/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/vasudev7891/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/vasudev7891/LeetCode/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/vasudev7891/LeetCode/tree/master/0283-move-zeroes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vasudev7891/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/vasudev7891/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasudev7891/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vasudev7891/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/vasudev7891/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vasudev7891/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/vasudev7891/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vasudev7891/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/vasudev7891/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Math
 |  |
 | ------- |
