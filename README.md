@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/vasudev7891/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/vasudev7891/LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/vasudev7891/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vasudev7891/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/vasudev7891/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasudev7891/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasudev7891/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/vasudev7891/LeetCode/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/vasudev7891/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/vasudev7891/LeetCode/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vasudev7891/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vasudev7891/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasudev7891/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vasudev7891/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
