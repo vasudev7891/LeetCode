@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vasudev7891/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasudev7891/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/vasudev7891/LeetCode/tree/master/0283-move-zeroes) |
+| [0835-image-overlap](https://github.com/vasudev7891/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/vasudev7891/LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/vasudev7891/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vasudev7891/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/vasudev7891/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/vasudev7891/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
