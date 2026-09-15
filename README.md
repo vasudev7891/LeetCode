@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/vasudev7891/LeetCode/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/vasudev7891/LeetCode/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/vasudev7891/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/vasudev7891/LeetCode/tree/master/0877-stone-game) |
@@ -204,5 +205,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/vasudev7891/LeetCode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/vasudev7891/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
