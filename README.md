@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasudev7891/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasudev7891/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vasudev7891/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/vasudev7891/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vasudev7891/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vasudev7891/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vasudev7891/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasudev7891/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/vasudev7891/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
