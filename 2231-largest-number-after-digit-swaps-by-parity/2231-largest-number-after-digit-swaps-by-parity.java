@@ -1,6 +1,5 @@
 class Solution {
     public int largestInteger(int num) {
-        int cpy = num;
         Queue<Integer> odd = new PriorityQueue<>(Collections.reverseOrder());
         Queue<Integer> even = new PriorityQueue<>(Collections.reverseOrder());
         List<Integer> digits = new ArrayList<>();
