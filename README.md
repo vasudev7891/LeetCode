@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vasudev7891/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasudev7891/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/vasudev7891/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/vasudev7891/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0835-image-overlap](https://github.com/vasudev7891/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/vasudev7891/LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/vasudev7891/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/vasudev7891/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [3903-smallest-stable-index-i](https://github.com/vasudev7891/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vasudev7891/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Recursion
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/vasudev7891/LeetCode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/vasudev7891/LeetCode/tree/master/0836-rectangle-overlap) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vasudev7891/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/vasudev7891/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
