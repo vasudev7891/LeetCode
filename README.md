@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/vasudev7891/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vasudev7891/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vasudev7891/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vasudev7891/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vasudev7891/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vasudev7891/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasudev7891/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasudev7891/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vasudev7891/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vasudev7891/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vasudev7891/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vasudev7891/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/vasudev7891/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vasudev7891/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/vasudev7891/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/vasudev7891/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vasudev7891/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vasudev7891/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vasudev7891/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasudev7891/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vasudev7891/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/vasudev7891/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vasudev7891/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vasudev7891/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasudev7891/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
@@ -207,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/vasudev7891/LeetCode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/vasudev7891/LeetCode/tree/master/0836-rectangle-overlap) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vasudev7891/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
