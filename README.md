@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vasudev7891/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/vasudev7891/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vasudev7891/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vasudev7891/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/vasudev7891/LeetCode/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vasudev7891/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vasudev7891/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/vasudev7891/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vasudev7891/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vasudev7891/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vasudev7891/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
