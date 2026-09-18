@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/vasudev7891/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vasudev7891/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/vasudev7891/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/vasudev7891/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasudev7891/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasudev7891/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vasudev7891/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vasudev7891/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/vasudev7891/LeetCode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/vasudev7891/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/vasudev7891/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vasudev7891/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/vasudev7891/LeetCode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vasudev7891/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/vasudev7891/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Breadth-First Search
 |  |
 | ------- |
