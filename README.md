@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vasudev7891/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vasudev7891/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vasudev7891/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/vasudev7891/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/vasudev7891/LeetCode/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vasudev7891/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vasudev7891/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/vasudev7891/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vasudev7891/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vasudev7891/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/vasudev7891/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3174-clear-digits](https://github.com/vasudev7891/LeetCode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasudev7891/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vasudev7891/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/vasudev7891/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/vasudev7891/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sorting
 |  |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/vasudev7891/LeetCode/tree/master/0365-water-and-jug-problem) |
+## Backtracking
+|  |
+| ------- |
+| [2375-construct-smallest-number-from-di-string](https://github.com/vasudev7891/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
