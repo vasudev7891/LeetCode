@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vasudev7891/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/vasudev7891/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/vasudev7891/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/vasudev7891/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasudev7891/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasudev7891/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -240,12 +241,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/vasudev7891/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/vasudev7891/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/vasudev7891/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vasudev7891/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/vasudev7891/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/vasudev7891/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vasudev7891/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/vasudev7891/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/vasudev7891/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/vasudev7891/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vasudev7891/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Geometry
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/vasudev7891/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/vasudev7891/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Memoization
 |  |
 | ------- |
