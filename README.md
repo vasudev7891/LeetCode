@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vasudev7891/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasudev7891/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/vasudev7891/LeetCode/tree/master/0877-stone-game) |
+| [0894-all-possible-full-binary-trees](https://github.com/vasudev7891/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vasudev7891/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Stack
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vasudev7891/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0894-all-possible-full-binary-trees](https://github.com/vasudev7891/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vasudev7891/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Bracket Sequences
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/vasudev7891/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/vasudev7891/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vasudev7891/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/vasudev7891/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/vasudev7891/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vasudev7891/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Geometry
@@ -299,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/vasudev7891/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/vasudev7891/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
