@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/vasudev7891/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vasudev7891/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vasudev7891/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vasudev7891/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/vasudev7891/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vasudev7891/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vasudev7891/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vasudev7891/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/vasudev7891/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vasudev7891/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vasudev7891/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vasudev7891/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Geometry
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/vasudev7891/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Bézout's Lemma
 |  |
 | ------- |
