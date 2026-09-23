@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vasudev7891/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vasudev7891/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0682-baseball-game](https://github.com/vasudev7891/LeetCode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/vasudev7891/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vasudev7891/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vasudev7891/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/vasudev7891/LeetCode/tree/master/0086-partition-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vasudev7891/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vasudev7891/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Prefix Sum
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasudev7891/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vasudev7891/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vasudev7891/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/vasudev7891/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vasudev7891/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vasudev7891/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0365-water-and-jug-problem](https://github.com/vasudev7891/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vasudev7891/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vasudev7891/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasudev7891/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vasudev7891/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vasudev7891/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/vasudev7891/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vasudev7891/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
