@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/vasudev7891/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/vasudev7891/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vasudev7891/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasudev7891/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vasudev7891/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0606-construct-string-from-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vasudev7891/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/vasudev7891/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vasudev7891/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vasudev7891/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0365-water-and-jug-problem](https://github.com/vasudev7891/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0606-construct-string-from-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vasudev7891/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vasudev7891/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasudev7891/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vasudev7891/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0606-construct-string-from-binary-tree](https://github.com/vasudev7891/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vasudev7891/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/vasudev7891/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vasudev7891/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
